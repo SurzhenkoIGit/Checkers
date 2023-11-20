@@ -1,0 +1,47 @@
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\Checkers\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\Checkers\Checkers\obj\Debug\Checkers.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\Checkers\Checkers\obj\Debug\Checkers.pdb
+C:\Users\мк\Downloads\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\мк\Downloads\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\мк\Downloads\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\мк\Downloads\Checkers\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+C:\Users\мк\Downloads\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\мк\Downloads\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\мк\Downloads\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\мк\Downloads\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\мк\Downloads\Checkers\Checkers\obj\Debug\Checkers.pdb
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\CheckersV1.2\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\CheckersV1.2\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\CheckersV1.2\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.pdb
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.FormLog.resources
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.FormMenu.resources
+C:\Users\user\Desktop\учеба\Стационар\C++\Экзамен C#2\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.FormRules.resources
+C:\Users\мк\Download\CheckersV1.2\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\мк\Download\CheckersV1.2\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\мк\Download\CheckersV1.2\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\мк\Download\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+C:\Users\мк\Download\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.csproj.SuggestedBindingRedirects.cache
+C:\Users\мк\Download\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+C:\Users\мк\Download\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.FormLog.resources
+C:\Users\мк\Download\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.FormMenu.resources
+C:\Users\мк\Download\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.FormRules.resources
+C:\Users\мк\Download\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\мк\Download\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\мк\Download\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\мк\Download\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\мк\Download\CheckersV1.2\Checkers\Checkers\obj\Debug\Checkers.pdb
